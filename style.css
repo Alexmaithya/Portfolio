@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(224, 64, 64);
+    font-family: fantasy;
+    font-weight: 7000px;
+    font-size: larger;
+    text-size-adjust: 300px;
+}
+img{
+    padding-left: 300px;
+}
+nav ul li{
+    text-align: center;
+    font-family: sans-serif;
+    color: thistle;
+    display: inline-block;
+    margin: 20px;
+}
+
+h1{
+    text-decoration: yellowgreen;
+    text-align: center;
+}        
+h2{
+    text-align: center;
+    display: block;
+    text-decoration: thistle;
+}
+p{
+    font-size: 25px;
+    text-align: center;
+    border:black;
+}
